@@ -1,0 +1,19 @@
+{
+  "name": "simple-js-carousel",
+  "version": "1.0.0",
+  "description": "Simple Carousel",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vathadianil/simple-js-carousel.git"
+  },
+  "author": "anil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vathadianil/simple-js-carousel/issues"
+  },
+  "homepage": "https://github.com/vathadianil/simple-js-carousel#readme"
+}
